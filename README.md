@@ -1,3 +1,6 @@
+
+![Black Yellow Modern Programmer LinkedIn Banner](https://github.com/ZohaibAhmadDev/ZohaibAhmadDev/assets/140325386/da68c5d8-719c-4134-a0b4-aa420c0b82c1)
+
 <h1 align="center">Hi 👋, I'm Zohaib Ahmad</h1>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 
